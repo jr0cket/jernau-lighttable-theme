@@ -1,10 +1,10 @@
-### jernau-lighttable-theme
+### Jernau: a Light Table theme
 
 A dark theme for Light Table with rainbow brackets:
 
 <img src="https://raw.github.com/Misophistful/jernau-lighttable-theme/master/jernau-lightable-theme.png">
 
-(Designed for Light Table version 0.5.x)
+(Tested in Light Table version 0.5.2)
 
 ### Installation
 
