@@ -2,9 +2,9 @@
 
 A dark theme for Light Table with rainbow brackets:
 
-<img src="https://raw.github.com/Misophistful/jernau-lighttable-theme/master/jernau-lighttable-theme.png">
+<img src="https://github.com/Misophistful/jernau-lighttable-theme/blob/master/jernau-lightable-theme.png">
 
-Designed for Light Table version 0.5.x.
+(Designed for Light Table version 0.5.x)
 
 ### Installation
 
