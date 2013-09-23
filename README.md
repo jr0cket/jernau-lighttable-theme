@@ -4,7 +4,7 @@ A dark theme with rainbow brackets:
 
 <img src="https://raw.github.com/Misophistful/jernau-lighttable-theme/master/jernau-lightable-theme.png">
 
-(Tested as working in Light Table version 0.5.2)
+(Tested as working in Light Table version 0.5.3)
 
 ### Installation
 
